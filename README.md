@@ -2,11 +2,11 @@
 First Rust project using [Piston Engine](https://github.com/PistonDevelopers/piston)
 
 # Preview 🔍
-<img src="https://i.imgur.com/fjdnFKZ.gif" width="550" height="450">
+<img src="https://i.imgur.com/fjdnFKZ.gif" width="550" height="420">
 
 # Quick Start 🚀
-```git clone https://github.com/irevenko/rectangle-animation.git```
-```cd rectangle-animation```
+```git clone https://github.com/irevenko/rectangle-animation.git``` <br>
+```cd rectangle-animation``` <br>
 ```cargo run```
 
 # What I Learned 🧠
